@@ -40,3 +40,13 @@ age = 19
 #print ("My age is " + age) Error --> Cannot concatenate str with integer
 #str(age) --> Used to convert int or float data type into string
 print ("My age is " + str(age))
+
+#Boolean Data type --> True or False
+bool1 = True #No quotations should be used for Bool data type
+bool2 = False
+print(bool1) #True
+print(bool2) #False
+print(type(bool1)) #<class 'bool'>
+print(type(bool2)) #<class 'bool'>
+
+#If: bool1 = "True then, print(type(bool1)) --> <class 'str'>
