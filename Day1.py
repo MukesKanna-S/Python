@@ -49,4 +49,4 @@ print(bool2) #False
 print(type(bool1)) #<class 'bool'>
 print(type(bool2)) #<class 'bool'>
 
-#If: bool1 = "True then, print(type(bool1)) --> <class 'str'>
+#If: bool1 = "True then, print(type(bool1)) --> <class 'str'>cd
