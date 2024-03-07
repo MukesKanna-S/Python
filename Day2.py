@@ -60,7 +60,7 @@ print(str(x)) #10
 print(str(y)) #123.45
 print(str(z)) #25
 
-print(z*3) #252525
+print(z*3) #252525 Because z is a str since enclosed in quotationsS
 print(int(z)*3) #75
 
 
