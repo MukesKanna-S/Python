@@ -63,5 +63,3 @@ print(str(z)) #25
 print(z*3) #252525 Because z is a str since enclosed in quotationsS
 print(int(z)*3) #75
 
-
-
