@@ -92,12 +92,13 @@ b = float(input("Enter side 'b' : "))
 
 #Hypotenuse = c
 c = math.sqrt(pow(a,2) + pow(b,2)) 
-print(f"Hypotenuse of a triangle is {c}")
+print(f"Hypotenuse of a triangle is {c} cm")
 '''
 O/P:
 Enter side 'a' : 3
 Enter side 'b' : 4
-Hypotenuse of a triangle is 5.0 '''
+Hypotenuse of a triangle is 5.0 cm'''
+
 
 
 
