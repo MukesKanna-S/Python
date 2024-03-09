@@ -3,10 +3,10 @@
    We can also use typecasting in getting user inputs 
    Eg : *int(input(___))
         *float(input(___)) '''
-'''
+
 name = input("Enter your name :")
 print("Hello " + name ) #Hello Mukes
-
+'''
 We can also use f string in printing user inputs.
 f strings are a literal string prefixed with 'f', which contains expressions inside braces.'''
 
